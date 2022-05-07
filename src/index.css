@@ -1,0 +1,14 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #000300;
+}
+
+.text-primary {
+    @apply text-lg font-bold bg-orange-500;
+}
+
+
