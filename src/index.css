@@ -12,3 +12,6 @@ body {
 }
 
 
+* {
+    scroll-behavior: smooth;
+}
